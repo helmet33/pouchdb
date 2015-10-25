@@ -1,0 +1,19 @@
+{
+  "name": "exercise-pouchdb",
+  "version": "1.0.0",
+  "description": "A PouchDB example exercise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/gmit-linked-data/exercise-pouchdb.git"
+  },
+  "keywords": [
+    "pouchdb",
+    "database"
+  ],
+  "author": "Ian McLoughlin",
+  "license": "ISC"
+}
