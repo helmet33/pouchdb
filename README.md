@@ -65,7 +65,7 @@ We'll mainly follow the [PouchDB Getting Started Guide](http://pouchdb.com/getti
 1. Add a function to delete a to-do
 	
 	```js
-	function deleteButtonPressed(todo) {
+	function deleteTodo(todo) {
 	  db.remove(todo);
 	}
 	```
@@ -106,4 +106,3 @@ We'll mainly follow the [PouchDB Getting Started Guide](http://pouchdb.com/getti
 - [PouchDB homepage](http://pouchdb.com/)
 
 - [CouchDB homepage](http://couchdb.apache.org/)
-
