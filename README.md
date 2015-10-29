@@ -99,6 +99,8 @@ We'll mainly follow the [PouchDB Getting Started Guide](http://pouchdb.com/getti
 
 1. Delete a to-do.
 
+1. Use express to create a todos HTTP API.
+
 ## Notes
 
 - [PouchDB Getting Started Guide](http://pouchdb.com/getting-started.html)
